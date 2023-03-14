@@ -1,0 +1,35 @@
+.drs{
+    display:flex;
+    flex-direction: column;
+    width: 50vh;
+    height:48vh;
+    background-color:white;
+}
+.hpc{
+    display:flex;
+    flex-direction: column;
+    width: 50vh;
+    height:48vh;
+    background-color:white;
+}
+.er{
+    display:flex;
+    flex-direction: column;
+    width: 50vh;
+    height:48vh;
+    background-color:white;
+}
+.els{
+    display:flex;
+    flex-direction: column;
+    width: 50vh;
+    height:48vh;
+    background-color:white;
+}
+.m{
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
